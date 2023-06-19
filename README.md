@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/6-ZNmVWM_UQ" title="Are You a :boy:, :girl: Or a :coconut: ?!  Sound = Im a Coconut - Coconut Hen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 🥥 CocosMenu developer
 
 
